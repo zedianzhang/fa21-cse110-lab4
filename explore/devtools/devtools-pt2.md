@@ -1,0 +1,2 @@
+1. the bug is that the input of num1 and num2 are string and the + operator for string only put stirng together.
+2. I used the parseInt method covert string to int for num1 and num2, then add them together.
